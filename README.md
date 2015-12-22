@@ -19,16 +19,16 @@ To get started, download the entire directory, `p4`, and open it in a browser lo
 **Framerate timelines**: saved JSON timelines and screenshots for `pizza.html` are located in the `dev/` directory, and shown below:
 
 *Original*
-![Original](https://raw.githubusercontent.com/allanbreyes/udacity-front-end/master/p4/dev/0-pizza-original.png)
+![Original]()
 
 *After loop optimization*
-![After loop optimization](https://raw.githubusercontent.com/allanbreyes/udacity-front-end/master/p4/dev/1-pizza-loop-optimization.png)
+![After loop optimization]()
 
 *After debouncing*
-![After debouncing](https://raw.githubusercontent.com/allanbreyes/udacity-front-end/master/p4/dev/2-pizza-animation-optimization.png)
+![After debouncing]()
 
 *After minify*
-![After minify](https://raw.githubusercontent.com/allanbreyes/udacity-front-end/master/p4/dev/3-pizza-minify.png)
+![After minify]()
 
 ### Further areas of improvement
 - Browser caching, configured server-side, could have reduced page loading time.
@@ -38,3 +38,4 @@ To get started, download the entire directory, `p4`, and open it in a browser lo
 - [PageSpeed Insights](https://developers.google.com/speed/pagespeed/insights/)
 - [Optimize CSS Delivery](https://developers.google.com/speed/docs/insights/OptimizeCSSDelivery)
 - [Leaner, Animations with requestAnimationFrame](http://www.html5rocks.com/en/tutorials/speed/animations/)
+- [Youtube tutitorial by Maximilian Schmitt on GULP](https://www.youtube.com/watch?v=DkRoa2LooNM&list=PLRk95HPmOM6PN-G1xyKj9q6ap_dc9Yckm&index=1)
