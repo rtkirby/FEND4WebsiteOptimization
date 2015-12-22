@@ -19,13 +19,13 @@ To get started, download the entire directory, `p4`, and open it in a browser lo
 **Framerate timelines**: saved JSON timelines and screenshots for `pizza.html` are located in the `dev/` directory, and shown below:
 
 *Original*
-![Original]()
+![Original](https://cloud.githubusercontent.com/assets/12014930/11966687/807bf654-a8ba-11e5-86a6-a1f3303cf1ba.PNG)
 
 *After loop optimization*
-![After loop optimization]()
+![After loop optimization](https://cloud.githubusercontent.com/assets/12014930/11966693/86767bc4-a8ba-11e5-8053-0bf713d280b5.PNG)
 
 *After debouncing*
-![After debouncing]()
+![After debouncing](https://cloud.githubusercontent.com/assets/12014930/11966696/8a135d10-a8ba-11e5-80e2-4e376daeb409.PNG)
 
 *After minify*
 ![After minify]()
