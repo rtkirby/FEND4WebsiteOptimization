@@ -31,7 +31,7 @@ To get started, download the entire directory, `p4`, and open it in a browser lo
 ![After minify]()
 
 *Install Node.js and load GULP*
-![After running GULP, based on nodejs, built by Fractal](https://github.com/wearefractal)
+![After running GULP, based on nodejs]()
 
 ### Further improvement
 - Browser caching, configured server-side, could have reduced page loading time.
