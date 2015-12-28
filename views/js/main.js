@@ -508,6 +508,7 @@ function updatePositions() {
   frame++;
   window.performance.mark("mark_start_frame");
 
+  //var scrolltop = document.body.scrolltop;
   var items = document.getElementByClassName('mover'); // changed document.querySectorAll to document.getElementByClassName
   for (var i = 0; i < items.length; i++) {
     var phase = Math.sin((document.body.scrollTop / 1250) + (i % 5));
