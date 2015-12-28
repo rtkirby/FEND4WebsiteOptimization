@@ -30,12 +30,21 @@ To get started, download the entire directory, `p4`, and open it in a browser lo
 *After minify*
 ![After minify]()
 
-### Further areas of improvement
+*Install Node.js and load GULP*
+![After running GULP, based on nodejs, built by Fractal](https://github.com/wearefractal)
+
+### Further improvement
 - Browser caching, configured server-side, could have reduced page loading time.
 - Using a CDN for Bootstrap files could have reduced page loading time as well, but was minified for the purposes of this exercise. Reduce image size
+- Google Page Speed Insights from gulp
 
 ### Resources
 - [PageSpeed Insights](https://developers.google.com/speed/pagespeed/insights/)
 - [Optimize CSS Delivery](https://developers.google.com/speed/docs/insights/OptimizeCSSDelivery)
+- [Avoiding Rendering Blocking CSS](https://developers.google.com/web/fundamentals/performance/critical-rendering-path/render-blocking-css.html "render blocking css")
+- [Optimizing the Critical Rendering Path](https://developers.google.com/web/fundamentals/performance/critical-rendering-path/optimizing-critical-rendering-path.html "optimize the crp!")
 - [Leaner, Animations with requestAnimationFrame](http://www.html5rocks.com/en/tutorials/speed/animations/)
+- [Udacity Office Hours](https://plus.google.com/u/0/events/cqecguv492nm1uhmnqo3khr2bv4?authkey=CNG7rsiHksvtQg)
 - [Youtube tutitorial by Maximilian Schmitt on GULP](https://www.youtube.com/watch?v=DkRoa2LooNM&list=PLRk95HPmOM6PN-G1xyKj9q6ap_dc9Yckm&index=1)
+- [Demo of critical path plugin](https://github.com/addyosmani/critical-path-css-demo)
+- [Javascript Bottleneck analyzing tool](https://developers.google.com/web/tools/chrome-devtools/profile/rendering-tools/analyze-runtime)
