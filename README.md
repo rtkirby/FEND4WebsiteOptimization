@@ -16,7 +16,7 @@ To get started, download the entire directory, `p4`, and open it in a browser lo
 - Loop optimization: unnecessary JS operations were pulled out of `for` loops where possible, in `views/js/main.js`.
 - Debouncing: scroll events were 'debounced' to decouple the animations and only reflow/repaint when needed.
 
-**Framerate timelines**: saved JSON timelines and screenshots for `pizza.html` are located in the `dev/` directory, and shown below:
+**Framerate timelines**: saved JSON timelines and screenshots for `pizza.html` are located in the Issue's tab, and shown below:
 
 *Original*
 ![Original](https://cloud.githubusercontent.com/assets/12014930/11966687/807bf654-a8ba-11e5-86a6-a1f3303cf1ba.PNG)
