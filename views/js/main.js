@@ -444,7 +444,7 @@ function determineDx (elem, size) {
   return dx;
 }
 
-
+// Made chnages to var  var pizzaContainers = document.getElement>Code typo"s">ByClassName("randomPizzaContainer");
 // Iterates through pizza elements on the page and changes their widths
 function changePizzaSizes(size) {
   var pizzaContainer = document.getElementsByClassName("randomPizzaContainer");
