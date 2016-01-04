@@ -1,4 +1,4 @@
-# Website Performance Optimization Project
+# Udacity Website Performance Optimization Project
 
 ### About
 The objective of this project is to optimize [Cameron Pittman's portfolio](www.lin1kore.net) page for speed. The strategy was to optimize the critical rendering path, making the page render as quickly as possible, using techniques you've picked up in the [Website Performance Optimization](https://www.udacity.com/course/ud884).
