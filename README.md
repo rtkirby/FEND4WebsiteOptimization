@@ -35,7 +35,7 @@ To get started, download the entire directory, `p4`, and open it in a browser lo
 - Using a CDN for Bootstrap files could have reduced page loading time as well, but was minified for the purposes of this exercise. Reduce image size
 - Google Page Speed Insights from gulp
 
-### Resources"
+### Resources:
 - [PageSpeed Insights](https://developers.google.com/speed/pagespeed/insights/)
 - [Optimize CSS Delivery](https://developers.google.com/speed/docs/insights/OptimizeCSSDelivery)
 - [Avoiding Rendering Blocking CSS](https://developers.google.com/web/fundamentals/performance/critical-rendering-path/render-blocking-css.html "render blocking css")
