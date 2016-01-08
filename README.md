@@ -45,3 +45,5 @@ To get started, download the entire directory, `p4`, and open it in a browser lo
 - [Youtube tutitorial by Maximilian Schmitt on GULP](https://www.youtube.com/watch?v=DkRoa2LooNM&list=PLRk95HPmOM6PN-G1xyKj9q6ap_dc9Yckm&index=1)
 - [Demo of critical path plugin](https://github.com/addyosmani/critical-path-css-demo)
 - [Javascript Bottleneck analyzing tool](https://developers.google.com/web/tools/chrome-devtools/profile/rendering-tools/analyze-runtime)
+- [Udacity Writing READMEs Because Code is for Humans, Too](https://www.udacity.com/course/writing-readmes--ud777)
+
